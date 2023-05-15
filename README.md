@@ -1,2 +1,3 @@
-# Day-29-Password-Manager-App
-A python project to save your passwords
+# Password Manager
+## Little project I made using python.
+
